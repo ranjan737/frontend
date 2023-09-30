@@ -87,7 +87,7 @@ handleGetSavedMovies = () => {
         <div className="top-flex-container">
           <h1>Welcome to <span style={{ textDecoration: "underline", fontSize: "50px" }}>Review2gether</span></h1>
           <p>
-              Add it in yourself, and see what your buddies have to say! You can filter through the list of available movies with the search bar here.
+          ranjan 2022-23 Add it in yourself, and see what your buddies have to say! You can filter through the list of available movies with the search bar here.
             {selectedGenre && <span> Currently filtered by genre: {selectedGenre}</span>}
           </p>
           <form className="form">
