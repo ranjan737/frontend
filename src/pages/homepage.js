@@ -114,7 +114,7 @@ class Homepage extends Component {
                     <div className="row">
                         <div className="col-sm-12">
                             <h1 className="text-center intro-text">
-                                There are no movies listed here yet. To get started, click on the big "Add Movie" button at the top of the screen and tell us what you like!
+                                To get started, click on the big "Add Movie" button at the top of the screen and tell us what you like!
                             </h1>
                         </div>
                     </div>
